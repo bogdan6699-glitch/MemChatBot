@@ -2,14 +2,6 @@
 
 Un site minimalist, în limba română, care poate salva texte lungi local în browser și poate căuta fragmente relevante în ele.
 
-## Publicare pe GitHub Pages
-1. Creează un repository nou pe GitHub.
-2. Încarcă `index.html` și `README.md` în repository.
-3. Intră la **Settings → Pages**.
-4. La **Build and deployment**, selectează **Deploy from a branch**.
-5. Alege branch-ul `main` și folderul `/ (root)`, apoi apasă **Save**.
-6. După publicare, GitHub îți va afișa adresa site-ului.
-
 ## Cum se folosește
 - În „Baza de cunoștințe”, lipește un text lung sau încarcă fișiere `.txt`, `.md` ori `.csv`.
 - Adaugă câte documente dorești.
