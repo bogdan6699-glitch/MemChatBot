@@ -1,0 +1,5 @@
+PASTEAZĂ AICI REGULAMENTUL COMPLET AL SERVERULUI FIVEM.
+
+Șterge acest mesaj și lipește textul regulamentului în acest fișier.
+Păstrează fișierul cu numele exact: regulament.txt
+După ce îl modifici în GitHub, fă un commit și așteaptă redeploy-ul automat din Vercel.
