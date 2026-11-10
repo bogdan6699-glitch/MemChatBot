@@ -1,5 +1,118 @@
-PASTEAZĂ AICI REGULAMENTUL COMPLET AL SERVERULUI FIVEM.
+Informatii Generale
 
-Șterge acest mesaj și lipește textul regulamentului în acest fișier.
-Păstrează fișierul cu numele exact: regulament.txt
-După ce îl modifici în GitHub, fă un commit și așteaptă redeploy-ul automat din Vercel.
+    Raportarea colegilor se face printr-un PM către lider sau co-lider. Puteți face o reclamație pe panel împotriva unui coleg DOAR dacă este pentru ADMINI, nu pentru facțiune (sancțiune: FW). Dovezile de pe alte conturi nu vor fi luate în considerare.
+    La acumularea a 2 Avertismente Verbale, veți primi Faction Warn. De menționat că avertismentele verbale nu expiră.
+    Dacă membrul acceptat pentru teste sau trecut la teste nu se prezintă în 48 de ore la susținerea testului sau la invitație, acesta va fi respins pe motiv "Neprezentare teste" sau "Neprezentare invite", după caz.
+    Punerea demisiei în ziua procesării raportului, având raportul incomplet (sau orele), va duce la respingerea demisiei.
+    În cazul unui abuz, veți fi sancționați cu Faction Warn sau Uninvite, în funcție de abateri și de gravitatea acestora, pe motiv "Abuz de funcție", cu 100/30 Faction Punish.
+    Acumularea a 3/3 Faction Warns va rezulta în demitere cu 30/30 FP, indiferent de rank-ul și zilele avute în facțiune.
+    Spam-ul pe chat-urile facțiunii ([/f], [/r], [/in], [/pd] sau [/fdeposit]) este interzis. Acesta se sancționează cu AV, FW sau Uninvite, în funcție de gravitate:
+
+4-5 rânduri: Avertisment Verbal
+6-7 rânduri: Faction Warn
+8+ rânduri (inclusiv 8): Uninvite cu 30 Faction Punish
+
+    Spam-ul pe [/fanno] se va sancționa în funcție de abateri sau gravitate cu Faction Warn sau Uninvite cu 100 Faction Punish pentru abuz de funcție.
+    Folosirea comenzi [/fanno] fără un motiv valid va fi sancționată în funcție de abateri sau gravitate cu Faction Warn sau Uninvite cu 100 Faction Punish pentru abuz de funcție.
+    Nu aveți voie să faceți job-uri sau alte activități care nu țin de activitatea facțiunii în momentul în care sunteți [/duty]. (sancțiune: AV, exceptie departamente unde sancțiunea este FW)
+
+
+Comportament și limbaj
+
+    Trebuie să vă respectați liderul, co-liderul sau superiorii. Deciziile conducerii trebuie respectate ca atare, iar solicitarea de explicații liderului sau co-liderului pentru acțiunile lor, precum și luarea acestora în derâdere, sunt interzise.
+    Respectați-vă colegii din facțiune și ceilalți jucători de pe server, adoptând un limbaj decent și un comportament corespunzător.
+    Sfidarea liderului, comentariile nepotrivite la adresa acestuia sau luarea în derâdere vor fi sancționate cu FW sau Uninvite, în funcție de gravitate, pe motiv "Sfidare lider", cu 30 FP.
+    Nu adresați injurii sau remarci batjocoritoare altor colegi sau membri ai comunității. Aceste acțiuni pot avea consecințe grave (AV, FW sau Uninvite). Dacă doi sau mai mulți membri din facțiune se ceartă, aceștia trebuie raportați liderului printr-un PM care să includă dovezile necesare.
+    Limbajul vulgar (incluzând prescurtările, înlocuirile și formele subtile de a adresa cuvinte ofensatoare), precum și insultele sau rasismele, sunt interzise pe orice chat, indiferent de context (excepție face chat-ul clanului, dacă jucătorul nu este staff).
+    Amenințările directe și evidente vor fi sancționate cu Avertisment Verbal sau Faction Warn, în funcție de gravitate.
+
+
+Deathmatch (DM), Drive-By (DB), Heli-Blade (HB), Kamikaze, Non-RP
+
+    Deathmatch-ul cu arme, pumni sau picioare (DMP) este permis doar împotriva polițiștilor aflați la datorie și în cadrul evenimentelor de tip ‘Clan Turfs/Zones/Wars’.
+    Dacă un membru al facțiunii are un comportament Non-RP, face Deathmatch, Drive-By, Heli-Blade (folosirea elicei elicopterului pentru a scădea HP) sau recurge la Kamikaze, acesta va fi sancționat cu Faction Warn sau chiar Uninvite cu 30 Faction Punish, în funcție de gravitate și abateri.
+
+
+Raportul de activitate
+
+    Raportul de activitate poate fi verificat folosind comanda [/raport] și se resetează o dată la 7 zile.
+    La fiecare 14 zile, când raportul este procesat, progresul va fi setat la 0 în loc să fie scăzut.
+    Membrii care ocupă funcții speciale (Helperi/Admini/Testerii + responsabili TTC) beneficiază de raport înjumătățit.
+    Fiecare membru este obligat să completeze săptămânal raportul conform rank-ului său pentru a evita sancțiunile.
+    Raportul incomplet la Rank 1 se sancționează cu Uninvite. Raportul incomplet la Rank 2+ se sancționează cu Faction Warn și cu scăderea punctelor din raport.
+    Fiecare membru trebuie să aibă minim 5 ore în 'Last 7' până la procesarea raportului, altfel va fi sancționat cu Uninvite.
+    Activitatea constantă pe server este obligatorie. Membrii care nu se loghează timp de 5 zile vor primi Uninvite direct.
+
+
+Cereri de inactivitate
+
+    În cazul în care întâmpinați probleme și nu puteți fi activi pe server sau nu puteți finaliza raportul de activitate, aveți opțiunea de a depune o cerere de inactivitate.
+    Membrii cu rank mai mic de 2 nu au dreptul să depună o cerere de inactivitate.
+    Fiecare membru are dreptul la o singură cerere de inactivitate pe lună.
+    Cererea de inactivitate vă oferă: Scutire de raport și ore pentru 7 zile & Statutul de "inactivitate mai mare de 72h".
+    După expirarea perioadei de inactivitate, aveți la dispoziție 24 de ore pentru a vă conecta pe server. În caz contrar, veți primi Uninvite pentru "inactiv post-inactivitate".
+
+Topicuri și panel
+
+    Trebuie să aveți un comportament decent atât pe panel în topicurile dedicate facțiunii, cât și pe întregul panel, evitând postările inutile, spam-ul și alte încălcări ale regulamentului.
+    Păstrați un limbaj civilizat în reclamațiile împotriva voastră, ale unui coleg sau ale oricărui alt jucător, precum și în tichetele de ajutor. Titlurile jignitoare sau la caterincă, precum și dovezile care includ conținut nepotrivit/vulgar, vor fi sancționate cu AV sau FW, în funcție de situație și gravitate.
+    În cazul în care un jucător face o reclamație împotriva voastră sau a unui coleg, trebuie să păstrați un comportament civilizat. Comportamentul neadecvat (caterincă, spam, limbaj vulgar etc.) în reclamațiile facțiunii va fi sancționat cu Avertisment Verbal sau Faction Warn.
+    Certurile pe panel pot atrage sancțiuni din partea unui moderator/admin (suspend), dar și sancțiuni în joc, în funcție de decizia celui care a aplicat sancțiunea inițială.
+    Membrul reclamat are obligația să aducă dovezi în termen de 24 de ore, care să confirme că a acționat corect. În caz contrar, va fi sancționat pentru neprezentarea dovezilor.
+    Este strict interzis ca în dovezile (video, poze sau înregistrări audio) să fie incluse insulte la adresa celui care a depus reclamația. Sancțiunea va fi decisă de lider, în funcție de gravitate și abateri.
+    Membrii care depun o reclamație în secțiunea ”Lider / Abuz” nu vor fi sancționați.
+    Când aplicați pe panel, sunteți obligați să treceți conturile principale de Discord. În caz contrar, liderul va fi obligat să respingă aplicația.
+
+
+Ședințe
+
+    Liderul sau co-liderul are dreptul să organizeze ședințe la care participarea poate fi obligatorie sau opțională, în funcție de anunțul ședinței.
+    Ora, data și locația ședinței vor fi anunțate pe MOTD, Discord și pe panel, în topicul "Anunțuri importante", cu cel puțin 3 zile înainte.
+    Dacă nu puteți participa la ședință, aveți dreptul să depuneți o cerere de învoire pe panel, însă doar membrii cu rank 2 sau mai mare pot face acest lucru. Aveți dreptul la maximum 2 cereri de învoire pe lună.
+    Neprezentarea la ședință fără o cerere de învoire acceptată: Membrii cu rank 2+ vor primi FW & Membrii cu rank 1 vor fi sancționați direct cu Uninvite.
+    Comanda [/turn on] la ședință este interzisă și se sancționează cu Avertisment Verbal.
+    Deranjarea ședinței va fi sancționată cu AV sau FW, în funcție de situație.
+    Dacă întârziați: Până la 10 minute: veți primi un AV / Peste 10 minute: veți fi considerați absenți
+    Dacă aveți wanted la ședință, aveți la dispoziție 3 minute pentru a scăpa de acesta, altfel veți fi considerați absenți.
+    Este interzis să tastați comenzi vizibile pe chat în timpul ședinței, aceasta fiind sancționată cu o amendă de 15.000.000$
+    Nu aveți voie să intrați în AFK în timpul ședinței fără permisiune. Aceasta va fi sancționată cu o amendă de 15.000.000$
+
+
+Perioada de promovare
+
+    Rank 1: Se acordă automat la intrarea în facțiune.
+    Rank 2: Se acordă după minim 7 zile de la intrarea în facțiune.
+    Rank 3: Se acordă după minim 7 zile de la avansarea precedentă.
+    Rank 4: Se acordă după minim 14 zile de la avansarea precedentă.
+    Rank 5: Se acordă după minim 21 zile de la avansarea precedentă.
+
+Fiecare Faction Warn primit prelungește durata pentru Rank UP cu 7 zile.
+Clear Faction Warn se primește automat de la sistem după 7 zile de la aplicarea sancțiunii.
+Puteți verifica progresul folosind comanda [/raport] pentru mai multe detalii.
+
+ 
+
+Amenzi 
+
+    Amenzile pe care le primiți trebuie plătite în termen de 24 de ore pe panel, în caz contrar, veți primi Faction Warn.
+    Dacă un membru primește 3 amenzi în mai puțin de 24 de ore, va fi sancționat cu Faction Warn pe motiv 'Amenzi multiple'.
+    Amenda se va acorda în maxim 2 minute de la comiterea greșelii. Dacă acest termen nu este respectat, amenda nu se va lua în considerare, iar membrul nu va fi sancționat dacă nu a plătit-o.
+    Amenzile se pot plati folosind comanda [/payfine]. Nu este necesara postarea unei dovezi.
+
+Folosirea comenzii [/amenda] în mod abuziv (motiv/preț scris la mișto) va fi sancționată cu Faction Warn sau Uninvite, în funcție de gravitate și abateri. De asemenea, spam-ul abuziv de amenzi va fi sancționat cu Uninvite și 100 Faction Punish pentru abuz de funcție. 
+
+Amenzi aplicabile la toate facțiunile și amenzile specifice facțiunii:
+
+    Caps Lock pe [/f], [/r], [/d], [/in]: 15.000.000$
+    Excepție: Nu se amendează cuvintele cu nume proprii (ex: 'SMS', 'LSPD', 'TTC').
+    Exces de caractere/semne inutile/cuvinte pe [/f], [/r], [/d],, [/in]: 15.000.000$ (4 caractere/cuvinte+, inclusiv 4) (ex: 'cf !!!!', '@@@@', 'full full full full', '..,..', 'LL>LL').
+    Promovarea unui clan pe [/f], [/r], [/d], [/in]: 10.000.000$ (ex: 'clanul X recrutează membri', 'Recrutez în clanul X').
+    Afaceri pe [/f], [/r], [/d], [/in]: 10.000.000$ (ex: 'vand X', 'cumpăr X', 'schimb X'). Nu se sancționează: 'are cnv X?'.
+
+Altele 
+
+    Este interzis să mergeți la Drop când sunteți la datorie (on-duty), inclusiv când folosiți [/fare], [/undercover] etc., sau să folosiți vehicule din facțiune (sancțiune: Faction Warn).
+    Mașinile facțiunii nu se vor tuna. Cei care încalcă această regulă vor fi sancționați cu Faction Warn.
+    Dacă un membru al facțiunii este prins fraudând testul de intrare sau raportul, va primi Uninvite cu 100 Faction Punish pe motiv "Fraudare test", respectiv "Fraudare raport".
+    Dacă întâmpinați crash sau desync în timpul susținerii testului de intrare, aveți 5 minute pentru a reveni și a susține testul. În caz contrar, veți fi picați la test. Se acceptă maxim două reveniri la test, altfel veți fi picați.
+    Divulgarea test log-ului facțiunii de către un tester va fi sancționată cu Uninvite și 100 Faction Punish pe motiv "Divulgare test log".
